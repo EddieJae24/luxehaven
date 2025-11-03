@@ -17,13 +17,14 @@ Built using the MERN Stack (MongoDB, Express.js, React, and Node.js), this appli
 
 ## Table of Contents
 
-- [Description](#description)
+- [About Luxehaven](#description)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contribution](#contribution)
 - [Tests](#tests)
-- [Questions](#questions)
+- [Contact](#contact)
 
 ## Installation
 
@@ -32,7 +33,7 @@ To install this project:
 1. Clone the repo
 
 ```sh
- git clone git@github.com:hobbsm-code/book-search-mern
+ git clone git@github.com:EddieJae24/luxehaven.git
 ```
 
 2. Install NPM packages
@@ -40,6 +41,23 @@ To install this project:
 ```sh
 npm install
 ```
+3. Build the project
+```sh
+npm run build
+```
+4. Start the development server
+```sh 
+npm run develop
+```
+
+## Features
+1. ✨ Create a personalized profile
+2. 💇‍♀️ Browse and book professional hair and makeup artists
+3. 🎉 Explore event decor and design services
+4. 📅 Manage upcoming appointments and events
+5. 💌 Save favorite looks and inspiration
+6. 📱 Fully responsive design for mobile and desktop
+
 
 ## Usage
 
@@ -52,11 +70,9 @@ Note: You must have MongoDB installed on your computer to run this application. 
     3. Type npm run develop to start the server in development mode
     4. Click on the login/signup button in the top right corner of the page
     5. Create an account or login with an existing account
-    6. Search for books using the search bar
-    7. Click the save button to save a book to your profile
-    8. Click the 'See Your Books' link to view your saved books
+    6. Explore hair, makeup decor and book events
 
-    The application is deployed on Render. You can access the deployed application [here](https://book-search-mern-gxlq.onrender.com/).
+    The application is deployed on Render. You can access the deployed application [here](.....).
 
 ## Contribution
 
@@ -80,6 +96,6 @@ This project does not currently have any unit tests. Having test coverage is alw
 ## Questions
 
 For questions, please contact me at:  
- GitHub: [Find me on GitHub -> hobbsm-code](https://github.com/Find me on GitHub -> hobbsm-code)  
- Email: [Email me at: hobbsm321@gmail.com]  
+ GitHub: [Find me on GitHub -> EddieJae24](https://github.com/Find me on GitHub -> hobbsm-code)  
+ Email: [Email me at: tetraed.llc@gmail.com]  
 
