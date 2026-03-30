@@ -15,6 +15,7 @@ Our goal is to simplify the process of discovering, booking, and managing premiu
 
 Built using the MERN Stack (MongoDB, Express.js, React, and Node.js), this application offers a seamless and responsive experience for both clients and service providers.
 
+
 ## Table of Contents
 
 - [About Luxehaven](#description)

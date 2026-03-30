@@ -17,6 +17,7 @@
     "concurrently": "^8.2.0"
   },
   "dependencies": {
+    "develop": "^1.0.0",
     "lucide-react": "^0.483.0"
   }
 }
